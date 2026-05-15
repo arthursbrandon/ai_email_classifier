@@ -18,7 +18,7 @@
 
 **Tech Stack**
 - Python 3.12
-- Groq API (Llama 3.1)
+- Groq API (Llama 3.1) | Requires Groq API key
 - Pandas for data processing
 - ETL pipeline architecture
 
