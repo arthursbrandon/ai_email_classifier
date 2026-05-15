@@ -23,15 +23,18 @@ AI-powered email classification system that categorizes and prioritizes incoming
 - ETL pipeline architecture
 
 **Screenshot of sample output**
-<img width="766" height="100" alt="image" src="https://github.com/user-attachments/assets/44301a32-4df1-4ee1-98e8-51fcfa3c036e" />
+<img width="1465" height="311" alt="image" src="https://github.com/user-attachments/assets/a1327d78-d77e-4812-aa4f-287656825ca2" />
+[caegorized_emails.csv](https://github.com/user-attachments/files/27789776/caegorized_emails.csv)
+
 
 **Requirements**
-- groq==0.2.0
-- python-dotenv==1.2.2
-- pandas==3.0.3
+- groq == 0.2.0
+- python-dotenv == 1.2.2
+- pandas == 3.0.3
 
 **Installing requirements with pip:**
 pip install -r requirements.txt
 
+**Installation and Running**
 
 
