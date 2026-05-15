@@ -23,7 +23,7 @@
 - ETL pipeline architecture
 
 **Screenshot of sample output**
-<img width="1465" height="311" alt="image" src="https://github.com/user-attachments/assets/a1327d78-d77e-4812-aa4f-287656825ca2" />
+<img width="1479" height="340" alt="Screenshot 2026-05-15 at 2 54 37 AM" src="https://github.com/user-attachments/assets/d961e735-e2b1-459f-87f6-c340ed0af81d" />
 [categorized_emails.csv](https://github.com/user-attachments/files/27790043/categorized_emails.csv)
 
 **Requirements**
