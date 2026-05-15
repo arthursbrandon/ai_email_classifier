@@ -29,7 +29,7 @@ def email_classifier():
     try:
         prompt = f"""You are an email classification system. Your task is to analyze each email and add category and priority fields.
 
-            ## CRITICAL RULES:
+            **CRITICAL RULES:**
 
             1. **PRESERVE ALL ORIGINAL FIELDS** - You must keep every original field exactly as given:
             - subject (copy exactly, do not modify)
@@ -45,7 +45,7 @@ def email_classifier():
 
             4. **DO NOT modify** original field names. Keep them as: subject, body, from, has_attachment
 
-            ## CATEGORIES (choose exactly one):
+            ** CATEGORIES (choose exactly one):**
             - sales_lead: Interested in buying, partnership, demo request, upgrade inquiry
             - support_ticket: Technical issues, login problems, API errors, feature requests
             - complaint: Product damage, refund request, billing dispute, missing items
@@ -82,7 +82,7 @@ def email_classifier():
             }}
             ]
 
-            ## FINAL INSTRUCTIONS:
+            ** FINAL INSTRUCTIONS:**
             - Return ONLY valid JSON. No explanations, no markdown, no extra text.
             - The output must be a JSON array.
             - Every email in the input must appear in the output.
