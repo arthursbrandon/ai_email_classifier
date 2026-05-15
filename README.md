@@ -1,7 +1,7 @@
 **AI Email Classifier**
 
 **About**
-AI-powered email classification system that categorizes and prioritizes incoming emails.
+- AI-powered email classification system that categorizes and prioritizes incoming emails.
 
 **Features**
 - Classifies emails into one of the 6 categories 
