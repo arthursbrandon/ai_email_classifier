@@ -24,8 +24,7 @@ AI-powered email classification system that categorizes and prioritizes incoming
 
 **Screenshot of sample output**
 <img width="1465" height="311" alt="image" src="https://github.com/user-attachments/assets/a1327d78-d77e-4812-aa4f-287656825ca2" />
-[caegorized_emails.csv](https://github.com/user-attachments/files/27789776/caegorized_emails.csv)
-
+[categorized_emails.csv](https://github.com/user-attachments/files/27790043/categorized_emails.csv)
 
 **Requirements**
 - groq == 0.2.0
