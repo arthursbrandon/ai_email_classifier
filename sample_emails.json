@@ -1,0 +1,153 @@
+[
+  {
+    "subject": "Question about your pricing plans",
+    "body": "Hi there, I’ve been reviewing the different plans on your website and I’m particularly interested in the Premium package for our growing team. We currently have around 25 employees who would need access, and I wanted to better understand the pricing structure, onboarding process, and whether there are any discounts available for annual billing. Could you also send over a detailed quote along with information about included support and integrations? Thanks in advance, and I look forward to hearing from you soon.",
+    "from": "john@example.com",
+    "has_attachment": false
+  },
+  {
+    "subject": "Broken product - need refund",
+    "body": "Hello, I received Order #12345 earlier today and unfortunately the product arrived badly damaged. The outer packaging looked crushed when it was delivered, and after opening the box I noticed that several parts inside were cracked and unusable. I’ve attached photos showing the damage for reference. This was purchased for an upcoming event, so this is extremely frustrating. Please let me know the next steps for receiving a full refund or replacement as soon as possible.",
+    "from": "jane@example.com",
+    "has_attachment": true
+  },
+  {
+    "subject": "Schedule a demo",
+    "body": "Good afternoon, our company is currently evaluating several CRM platforms to improve our sales and customer onboarding workflows. Your solution was recommended by one of our partners, and we’d like to learn more about its automation features, reporting capabilities, and integrations with existing tools like Slack and HubSpot. Would it be possible to schedule a 30-minute live demo sometime next week for our operations and sales managers? Please share your availability and any preparation materials beforehand.",
+    "from": "sales@bigcorp.com",
+    "has_attachment": false
+  },
+  {
+    "subject": "I want to cancel my subscription",
+    "body": "Hello support team, I’d like to request the cancellation of my monthly subscription effective immediately. While I’ve appreciated using the platform over the past few months, our team is reducing expenses and we no longer need the service at this time. Please confirm that no future charges will be processed and let me know whether there are any additional steps required on my side. I’d also appreciate confirmation once the cancellation has been completed.",
+    "from": "bob@example.com",
+    "has_attachment": false
+  },
+  {
+    "subject": "Technical support needed",
+    "body": "Hi team, we’ve been experiencing repeated issues with your API since early this morning. Several endpoints are intermittently returning HTTP 500 errors, which is causing failures in our production environment and disrupting customer transactions. We’ve already checked our authentication tokens and request payloads, so it appears to be server-side. I’ve attached screenshots and logs from our monitoring system to help with troubleshooting. Could someone investigate this urgently and provide an update on the issue?",
+    "from": "dev@startup.com",
+    "has_attachment": true
+  },
+  {
+    "subject": "Payment confirmation for Invoice #4582",
+    "body": "Hello, this is to confirm that payment for Invoice #4582 was processed earlier today via bank transfer. I’ve attached the payment confirmation receipt along with the remittance details for your records. Please verify that the funds have been received successfully and let us know if any additional documentation is required from our side. We would appreciate a confirmation email once the invoice status has been updated in your system.",
+    "from": "finance@acmecorp.com",
+    "has_attachment": true
+  },
+  {
+    "subject": "Unable to login to dashboard",
+    "body": "Good morning, several members of our internal team have been unable to access the dashboard since yesterday afternoon. Users are reporting that they either receive a timeout error after entering their credentials or get redirected back to the login page repeatedly. We’ve already tried clearing browser cache, testing different devices, and resetting passwords, but the issue is still ongoing. Since this is impacting our daily reporting workflow, we’d appreciate urgent assistance in resolving the problem.",
+    "from": "it@northwind.com",
+    "has_attachment": false
+  },
+  {
+    "subject": "Request for partnership opportunity",
+    "body": "Hello, I’m reaching out on behalf of Venture Group because we believe there may be an exciting opportunity for our companies to collaborate strategically. We’ve been following your recent growth and product expansion closely, and we think there could be strong alignment between your platform and our network of enterprise clients. We’d love to schedule an introductory call to discuss potential partnership opportunities, joint initiatives, and ways we might support each other’s business goals moving forward.",
+    "from": "ceo@venturegroup.io",
+    "has_attachment": false
+  },
+  {
+    "subject": "Missing items in shipment",
+    "body": "Hi logistics team, we received the shipment associated with our latest purchase order this morning, but after checking the inventory against the packing list we discovered that 12 units are missing from the delivery. We’ve double-checked all pallets and boxes to make sure nothing was overlooked. Attached are photos of the shipment contents and the signed delivery paperwork. Please investigate this discrepancy and advise whether the missing items will be shipped separately or credited back to our account.",
+    "from": "warehouse@retailhub.com",
+    "has_attachment": true
+  },
+  {
+    "subject": "Resume submission for Data Analyst role",
+    "body": "Dear Hiring Team, I’m writing to express my interest in the Data Analyst position currently listed on your careers page. I have over three years of experience working with SQL, Python, Tableau, and business intelligence reporting, primarily in the e-commerce and healthcare sectors. Attached you’ll find my resume and cover letter outlining my background and recent projects in greater detail. I’d appreciate the opportunity to discuss how my analytical and reporting skills could contribute to your team.",
+    "from": "candidate@gmail.com",
+    "has_attachment": true
+  },
+  {
+    "subject": "Refund still not processed",
+    "body": "Hello, I’m following up again regarding the refund request I submitted over two weeks ago for my canceled order. I was originally told that the refund would be processed within 5–7 business days, but I still haven’t received the funds back to my account and I haven’t received any updates either. This delay has been extremely frustrating, especially since I’ve already contacted support multiple times. Please provide an immediate update on the status of the refund and when I can expect it to be completed.",
+    "from": "angrycustomer@yahoo.com",
+    "has_attachment": false
+  },
+  {
+    "subject": "Can you upgrade our account?",
+    "body": "Hi support, our organization is planning to expand usage of your platform across multiple departments next quarter, and we’d like to upgrade from the Standard plan to the Enterprise package starting next month. Before moving forward, we’d appreciate details about pricing adjustments, additional features included with Enterprise, user limits, and whether migration assistance is available during the transition. Please let us know the process and timeline required to complete the upgrade smoothly.",
+    "from": "admin@globaltech.com",
+    "has_attachment": false
+  },
+  {
+    "subject": "Security concern regarding account access",
+    "body": "Good morning, our security monitoring system detected several suspicious login attempts on our account earlier today from unfamiliar IP addresses and locations outside our organization. While no unauthorized changes appear to have been made yet, we are concerned that the account may have been targeted. We’ve attached screenshots from our audit logs showing the failed login activity. Please investigate this matter urgently and advise whether additional security measures, such as forced password resets or MFA enforcement, should be enabled immediately.",
+    "from": "security@fintrust.com",
+    "has_attachment": true
+  },
+  {
+    "subject": "Follow-up on proposal",
+    "body": "Hi there, I just wanted to follow up regarding the proposal we shared with your team last week for the consulting engagement. We understand these decisions take time, but I wanted to check whether you’ve had an opportunity to review the document internally and if there are any questions or revisions you’d like to discuss. We’re very excited about the possibility of working together and would be happy to schedule a quick call to go over the next steps whenever convenient.",
+    "from": "maria@consultingpro.com",
+    "has_attachment": true
+  },
+  {
+    "subject": "Feature request for reporting module",
+    "body": "Hello product team, we’ve been actively using the reporting dashboard over the past several months and overall the experience has been great. One feature that would significantly improve our workflow, however, would be the ability to export reports directly into CSV format for use in our internal analytics tools. At the moment we have to manually copy data into spreadsheets, which is time-consuming for our operations team. Please let us know if this functionality is already planned for an upcoming release.",
+    "from": "product@insightlabs.ai",
+    "has_attachment": false
+  },
+  {
+    "subject": "Contract renewal discussion",
+    "body": "Hello, our annual support and maintenance agreement with your company is set to expire next month, and we’d like to begin discussions regarding renewal options. Over the past year, your support team has been very helpful, and we’re interested in reviewing updated pricing, SLA coverage, and any additional services that may now be available under newer contract tiers. I’ve attached a copy of our current agreement for reference. Please let us know a suitable time to discuss renewal details further.",
+    "from": "procurement@deltaindustries.com",
+    "has_attachment": true
+  },
+  {
+    "subject": "System outage affecting customers",
+    "body": "Hi support team, since earlier this afternoon several of our customers have been reporting intermittent outages while attempting to process payments through the API. Transactions are either timing out completely or returning inconsistent responses, which is beginning to impact customer trust and support volume on our side. We’ve checked our infrastructure and don’t see any internal issues, so we wanted to confirm whether there are any ongoing incidents affecting your services. Please provide an urgent status update as soon as possible.",
+    "from": "ops@paymentsync.io",
+    "has_attachment": false
+  },
+  {
+    "subject": "Invoice discrepancy",
+    "body": "Hello billing department, while reviewing Invoice #9981 we noticed that the total amount charged does not appear to match the pricing terms agreed upon in our contract renewal from last quarter. Specifically, the invoice reflects additional service fees that were not included in the final proposal approved by our finance team. I’ve attached the invoice along with the signed agreement for comparison. Could you please review the discrepancy and issue a corrected invoice if necessary?",
+    "from": "billing@megastore.com",
+    "has_attachment": true
+  },
+  {
+    "subject": "New lead inquiry from healthcare sector",
+    "body": "Good afternoon, our organization is currently evaluating software providers that can support secure data management and compliance requirements within the healthcare industry. We’re particularly interested in understanding how your platform handles HIPAA compliance, data encryption, audit logging, and user access controls. Could you share any compliance documentation, case studies, or information about existing healthcare clients using your solution? We’d also be interested in scheduling an introductory call with your sales team.",
+    "from": "director@healthfirst.org",
+    "has_attachment": false
+  },
+  {
+    "subject": "Urgent escalation - delayed delivery",
+    "body": "Hello logistics support, I’m reaching out regarding the shipment that was originally scheduled for delivery on Monday, which still has not arrived at our distribution center. This delay is now affecting downstream customer orders and creating operational issues for our warehouse team. Tracking updates have not changed in over 48 hours, so we urgently need clarification on the current shipment status and estimated arrival time. Attached are the shipment details and carrier information for reference.",
+    "from": "logistics@fastsupply.net",
+    "has_attachment": true
+  },
+  {
+    "subject": "Employee onboarding documents",
+    "body": "Hi team, attached are the onboarding documents and signed employment forms for the group of new hires starting next Monday. The files include tax forms, direct deposit information, confidentiality agreements, and identification documents required for HR processing. Please review the attachments and confirm that everything needed for onboarding has been received successfully. Let us know if there are any missing documents or additional forms that need to be completed before their start date.",
+    "from": "hr@enterpriseworks.com",
+    "has_attachment": true
+  },
+  {
+    "subject": "Need API documentation",
+    "body": "Hello developer support, our engineering team is preparing to integrate your platform into one of our internal applications, and we’re looking for the latest API documentation along with authentication and rate limit guidelines. We’d especially appreciate examples covering OAuth setup, webhook handling, and best practices for error responses. If available, please also share any Postman collections, SDK references, or sandbox environment details that could help accelerate the implementation process.",
+    "from": "developer@buildstack.dev",
+    "has_attachment": false
+  },
+  {
+    "subject": "Incorrect subscription charge",
+    "body": "Hi billing support, I noticed that my account was charged twice for the same monthly subscription during this billing cycle. Both transactions appear on my credit card statement, even though I only maintain a single active account with your service. I’d appreciate it if you could review the duplicate charge and process a refund for the extra payment as soon as possible. Please let me know if you need screenshots or transaction IDs from my side to investigate further.",
+    "from": "customer@webmail.com",
+    "has_attachment": false
+  },
+  {
+    "subject": "Demo request for executive team",
+    "body": "Good morning, our executive leadership team is currently reviewing several enterprise software solutions, and your platform has been shortlisted for further evaluation. We’d like to arrange a live walkthrough sometime next week focusing on analytics, user management, reporting capabilities, and overall scalability for larger organizations. The audience will include department heads from operations, finance, and IT, so a detailed product overview would be extremely helpful. Please share your availability and any demo preparation materials in advance.",
+    "from": "vp@futureventures.co",
+    "has_attachment": false
+  },
+  {
+    "subject": "Password reset not working",
+    "body": "Hello support, several users within our organization are currently unable to reset their passwords successfully. Whenever the password reset email is received and the link is clicked, the page immediately displays an expiration error instead of allowing the password change to proceed. We’ve tested this issue across multiple browsers and devices with the same result each time. Since users are effectively locked out of their accounts, we’d appreciate urgent assistance in resolving the issue as soon as possible.",
+    "from": "support@clientservices.org",
+    "has_attachment": false
+  }
+]
+
