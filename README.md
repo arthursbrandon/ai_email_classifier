@@ -33,11 +33,16 @@ AI-powered email classification system that categorizes and prioritizes incoming
 - pandas == 3.0.3
 
 **Installing requirements with pip:**
-- pip install -r requirements.txt
+```
+pip install -r requirements.txt
+```
 
 **Installation and Running**
-- git clone https://github.com/arthursbrandon/ai_email_classifier.git
-- cd ai_email_classifier
-- python main.py
+```
+git clone https://github.com/arthursbrandon/ai_email_classifier.git
+cd ai_email_classifier
+pip install -r requirements.txt
+python main.py
+```
 
 
