@@ -36,7 +36,7 @@ AI-powered email classification system that categorizes and prioritizes incoming
 - pip install -r requirements.txt
 
 **Installation and Running**
-- https://github.com/arthursbrandon/ai_email_classifier.git
+- git clone https://github.com/arthursbrandon/ai_email_classifier.git
 - cd ai_email_classifier
 - python main.py
 
